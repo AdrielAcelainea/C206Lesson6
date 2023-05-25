@@ -26,7 +26,7 @@ public class calculatorTest {
 
 	@Test
 	public void testAdd() {
-		//fail("Not yet implemented");
+		//fail("Not yet implemented")ace;
 		int a = 1234;
 		int b = 8765;
 		calculator cal = new calculator();
